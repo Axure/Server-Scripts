@@ -7,5 +7,5 @@ export LANG=en_US.UTF-8
 export LC_TYPE=en_US.UTF-8
 sudo locale-gen "en_US.UTF-8"
 sudo locale-gen
-sudo dpkg-reconfigure locales
+sudo dpkg-reconfigure locales 
 locale
